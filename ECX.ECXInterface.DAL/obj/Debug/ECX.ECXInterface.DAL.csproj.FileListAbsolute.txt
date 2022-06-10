@@ -1,0 +1,48 @@
+D:\Biruk\ECxInterface\ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.DAL.dll
+D:\Biruk\ECxInterface\ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.DAL.pdb
+D:\Biruk\ECxInterface\ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csprojResolveAssemblyReference.cache
+D:\Biruk\ECxInterface\ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.dll
+D:\Biruk\ECxInterface\ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.pdb
+D:\Biruk\ECxInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.DAL.dll
+D:\Biruk\ECxInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.DAL.pdb
+D:\Biruk\ECxInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.dll
+D:\Biruk\ECxInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.pdb
+D:\Biruk\ECxInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.BE.dll
+D:\Biruk\ECxInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.BE.pdb
+D:\Biruk\ECxInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csprojResolveAssemblyReference.cache
+E:\Name it\ECxInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.DAL.dll
+E:\Name it\ECxInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.DAL.pdb
+E:\Name it\ECxInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.BE.dll
+E:\Name it\ECxInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.BE.pdb
+E:\Name it\ECxInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csproj.CoreCompileInputs.cache
+E:\Name it\ECxInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csproj.CopyComplete
+E:\Name it\ECxInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.dll
+E:\Name it\ECxInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.pdb
+E:\Name it\ECxInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csprojAssemblyReference.cache
+F:\ECX.ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.DAL.dll
+F:\ECX.ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.DAL.pdb
+F:\ECX.ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.BE.dll
+F:\ECX.ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.BE.pdb
+F:\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csprojAssemblyReference.cache
+F:\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csproj.CoreCompileInputs.cache
+F:\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csproj.CopyComplete
+F:\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.dll
+F:\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.pdb
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.DAL.dll
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.DAL.pdb
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.BE.dll
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.BE.pdb
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csprojAssemblyReference.cache
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csproj.CoreCompileInputs.cache
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csproj.CopyComplete
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.dll
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.pdb
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.DAL.dll
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.DAL.pdb
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.BE.dll
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.DAL\bin\Debug\ECX.ECXInterface.BE.pdb
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csprojAssemblyReference.cache
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csproj.CoreCompileInputs.cache
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.csproj.CopyComplete
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.dll
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.DAL\obj\Debug\ECX.ECXInterface.DAL.pdb

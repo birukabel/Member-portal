@@ -1,0 +1,53 @@
+D:\Biruk\ECxInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BLL.dll
+D:\Biruk\ECxInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BLL.pdb
+D:\Biruk\ECxInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BE.dll
+D:\Biruk\ECxInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.DAL.dll
+D:\Biruk\ECxInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BE.pdb
+D:\Biruk\ECxInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.DAL.pdb
+D:\Biruk\ECxInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.csprojResolveAssemblyReference.cache
+D:\Biruk\ECxInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.dll
+D:\Biruk\ECxInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.pdb
+E:\Name it\ECxInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BLL.dll
+E:\Name it\ECxInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BLL.pdb
+E:\Name it\ECxInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BE.dll
+E:\Name it\ECxInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.DAL.dll
+E:\Name it\ECxInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BE.pdb
+E:\Name it\ECxInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.DAL.pdb
+E:\Name it\ECxInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.csprojAssemblyReference.cache
+E:\Name it\ECxInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.csproj.CoreCompileInputs.cache
+E:\Name it\ECxInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.csproj.CopyComplete
+E:\Name it\ECxInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.dll
+E:\Name it\ECxInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.pdb
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BLL.dll
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BLL.pdb
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BE.dll
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.DAL.dll
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BE.pdb
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.DAL.pdb
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.csprojAssemblyReference.cache
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.csproj.CoreCompileInputs.cache
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.csproj.CopyComplete
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.dll
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.pdb
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BLL.dll
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BLL.pdb
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BE.dll
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.DAL.dll
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BE.pdb
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.DAL.pdb
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.csprojAssemblyReference.cache
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.csproj.CoreCompileInputs.cache
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.csproj.CopyComplete
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.dll
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.pdb
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BLL.dll
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BLL.pdb
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BE.dll
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.DAL.dll
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.BE.pdb
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Debug\ECX.ECXInterface.DAL.pdb
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.csprojAssemblyReference.cache
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.csproj.CoreCompileInputs.cache
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.csproj.CopyComplete
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.dll
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Debug\ECX.ECXInterface.BLL.pdb

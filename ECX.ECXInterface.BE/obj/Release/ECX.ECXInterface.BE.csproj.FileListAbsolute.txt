@@ -1,0 +1,28 @@
+F:\ECX.ECXInterface\ECX.ECXInterface.BE\bin\Release\ECX.ECXInterface.BE.dll
+F:\ECX.ECXInterface\ECX.ECXInterface.BE\bin\Release\ECX.ECXInterface.BE.pdb
+F:\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.csproj.CoreCompileInputs.cache
+F:\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.dll
+F:\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.pdb
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BE\bin\Release\ECX.ECXInterface.BE.dll
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BE\bin\Release\ECX.ECXInterface.BE.pdb
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.csprojAssemblyReference.cache
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.csproj.CoreCompileInputs.cache
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.dll
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.pdb
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BE\bin\Release\ECX.ECXInterface.BE.dll
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BE\bin\Release\ECX.ECXInterface.BE.pdb
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.csprojAssemblyReference.cache
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.csproj.CoreCompileInputs.cache
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.dll
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.pdb
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BE\bin\Release\ECX.ECXInterface.BE.dll
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BE\bin\Release\ECX.ECXInterface.BE.pdb
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.csprojAssemblyReference.cache
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.csproj.CoreCompileInputs.cache
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.dll
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.pdb
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BE\bin\Release\ECX.ECXInterface.BE.dll
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BE\bin\Release\ECX.ECXInterface.BE.pdb
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.csproj.CoreCompileInputs.cache
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.dll
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BE\obj\Release\ECX.ECXInterface.BE.pdb

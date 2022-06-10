@@ -1,0 +1,55 @@
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BLL.dll
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BLL.pdb
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BE.dll
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.DAL.dll
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BE.pdb
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.DAL.pdb
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csprojAssemblyReference.cache
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csproj.CoreCompileInputs.cache
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csproj.CopyComplete
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.dll
+F:\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.pdb
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BLL.dll
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BLL.pdb
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BE.dll
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.DAL.dll
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BE.pdb
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.DAL.pdb
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csprojAssemblyReference.cache
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csproj.CoreCompileInputs.cache
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csproj.CopyComplete
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.dll
+C:\Users\birhanu.tsehaye\Desktop\New Revised\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.pdb
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BLL.dll
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BLL.pdb
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BE.dll
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.DAL.dll
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BE.pdb
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.DAL.pdb
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csprojAssemblyReference.cache
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csproj.CoreCompileInputs.cache
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csproj.CopyComplete
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.dll
+C:\Users\birhanu.tsehaye\Desktop\last last\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.pdb
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BLL.dll
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BLL.pdb
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BE.dll
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.DAL.dll
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BE.pdb
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.DAL.pdb
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csprojAssemblyReference.cache
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csproj.CopyComplete
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.dll
+C:\Users\Aron.Taddese\Desktop\ECX.ECXInterface\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.pdb
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BLL.dll
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BLL.pdb
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BE.dll
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.DAL.dll
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.BE.pdb
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BLL\bin\Release\ECX.ECXInterface.DAL.pdb
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csprojAssemblyReference.cache
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csproj.CoreCompileInputs.cache
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.csproj.CopyComplete
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.dll
+F:\My tasks\ECX.ECXInterface(Member Portal)\ECX.ECXInterface.BLL\obj\Release\ECX.ECXInterface.BLL.pdb
